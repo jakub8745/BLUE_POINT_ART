@@ -19,29 +19,18 @@
 	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
 
 	<!-- This site is optimized with the Yoast SEO plugin v20.1 - https://yoast.com/wordpress/plugins/seo/ -->
-	<title>Images of Identity</title>
-	<meta name="description" content="Images of Identity combine activities of visual arts with interdisciplinary considerations of humanities and social sciences.">
-	<link rel="canonical" href="https://bluepointart.uk/images-of-identity">
+	<title>Publishing</title>
+	<link rel="canonical" href="https://bluepointart.uk/publishing">
 	<meta property="og:locale" content="en_US">
 	<meta property="og:type" content="article">
-	<meta property="og:title" content="Images of Identity">
-	<meta property="og:description" content="Images of Identity combine activities of visual arts with interdisciplinary considerations of humanities and social sciences.">
-	<meta property="og:url" content="https://bluepointart.uk/images-of-identity">
+	<meta property="og:title" content="Publishing">
+	<meta property="og:description" content="Books">
+	<meta property="og:url" content="https://bluepointart.uk/publishing">
 	<meta property="og:site_name" content="Blue Point Art">
 	<meta property="article:publisher" content="https://www.facebook.com/BPAGallery">
-	<meta property="article:published_time" content="2020-12-18T15:52:30+00:00">
-	<meta property="article:modified_time" content="2022-09-27T21:18:22+00:00">
-	<meta property="og:image" content="./images/Identity_BluePointArt.jpg">
-	<meta property="og:image:width" content="2224">
-	<meta property="og:image:height" content="911">
-	<meta property="og:image:type" content="image/jpeg">
-	<meta name="author" content="BluePointArt">
+	<meta property="article:modified_time" content="2022-08-01T12:40:06+00:00">
 	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:label1" content="Written by">
-	<meta name="twitter:data1" content="BluePointArt">
-	<meta name="twitter:label2" content="Est. reading time">
-	<meta name="twitter:data2" content="1 minute">
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Article","@id":"https://bluepointart.uk/images-of-identity#article","isPartOf":{"@id":"https://bluepointart.uk/images-of-identity"},"author":{"name":"BluePointArt","@id":"https://bluepointart.uk/#/schema/person/0e11633b3b05e5edb16a44642bc1b026"},"headline":"Images of Identity","datePublished":"2020-12-18T15:52:30+00:00","dateModified":"2022-09-27T21:18:22+00:00","mainEntityOfPage":{"@id":"https://bluepointart.uk/images-of-identity"},"wordCount":301,"publisher":{"@id":"https://bluepointart.uk/#organization"},"image":{"@id":"https://bluepointart.uk/images-of-identity#primaryimage"},"thumbnailUrl":"https://bluepointart.uk/wp-content/uploads/2021/11/Identity_BluePointArt.jpg","keywords":["art installation","Identity","KRZYSZTOF GIL","KRZYSZTOF MARCHLAK","londyn","ŁUKASZ MURZYN","MAŁGORZATA WIELEK-MANDRELA","NATALIA KOPYTKO","Our Everyday Identity","polishuniversityabroad","PUNO","threejs","WebGL"],"articleSection":["3D exhibition","Projects"],"inLanguage":"en-US"},{"@type":"WebPage","@id":"https://bluepointart.uk/images-of-identity","url":"https://bluepointart.uk/images-of-identity","name":"Images of Identity","isPartOf":{"@id":"https://bluepointart.uk/#website"},"primaryImageOfPage":{"@id":"https://bluepointart.uk/images-of-identity#primaryimage"},"image":{"@id":"https://bluepointart.uk/images-of-identity#primaryimage"},"thumbnailUrl":"https://bluepointart.uk/wp-content/uploads/2021/11/Identity_BluePointArt.jpg","datePublished":"2020-12-18T15:52:30+00:00","dateModified":"2022-09-27T21:18:22+00:00","description":"Images of Identity combine activities of visual arts with interdisciplinary considerations of humanities and social sciences.","breadcrumb":{"@id":"https://bluepointart.uk/images-of-identity#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://bluepointart.uk/images-of-identity"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://bluepointart.uk/images-of-identity#primaryimage","url":"https://bluepointart.uk/wp-content/uploads/2021/11/Identity_BluePointArt.jpg","contentUrl":"https://bluepointart.uk/wp-content/uploads/2021/11/Identity_BluePointArt.jpg","width":2224,"height":911},{"@type":"BreadcrumbList","@id":"https://bluepointart.uk/images-of-identity#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://bluepointart.uk/"},{"@type":"ListItem","position":2,"name":"Images of Identity"}]},{"@type":"WebSite","@id":"https://bluepointart.uk/#website","url":"https://bluepointart.uk/","name":"Blue Point Art","description":"DIGITAL ENVIRONMENT FOR DOCUMENTARY, EDUCATIONAL AND CREATIVE ACTIVITIES","publisher":{"@id":"https://bluepointart.uk/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://bluepointart.uk/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://bluepointart.uk/#organization","name":"Blue Point Art ltd","url":"https://bluepointart.uk/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://bluepointart.uk/#/schema/logo/image/","url":"https://bluepointart.uk/wp-content/uploads/2021/10/BluePointGallerySmall.gif","contentUrl":"https://bluepointart.uk/wp-content/uploads/2021/10/BluePointGallerySmall.gif","width":150,"height":114,"caption":"Blue Point Art ltd"},"image":{"@id":"https://bluepointart.uk/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/BPAGallery"]},{"@type":"Person","@id":"https://bluepointart.uk/#/schema/person/0e11633b3b05e5edb16a44642bc1b026","name":"BluePointArt","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://bluepointart.uk/#/schema/person/image/","url":"https://secure.gravatar.com/avatar/a1c7bc5d1bac103b21b252a5e2e3537c?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/a1c7bc5d1bac103b21b252a5e2e3537c?s=96&d=mm&r=g","caption":"BluePointArt"},"sameAs":["https://bluepointart.uk"],"url":"https://bluepointart.uk/author/bluepointart"}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://bluepointart.uk/publishing","url":"https://bluepointart.uk/publishing","name":"Publishing","isPartOf":{"@id":"https://bluepointart.uk/#website"},"datePublished":"2021-11-25T09:31:03+00:00","dateModified":"2022-08-01T12:40:06+00:00","breadcrumb":{"@id":"https://bluepointart.uk/publishing#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://bluepointart.uk/publishing"]}]},{"@type":"BreadcrumbList","@id":"https://bluepointart.uk/publishing#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://bluepointart.uk/"},{"@type":"ListItem","position":2,"name":"Publishing"}]},{"@type":"WebSite","@id":"https://bluepointart.uk/#website","url":"https://bluepointart.uk/","name":"Blue Point Art","description":"DIGITAL ENVIRONMENT FOR DOCUMENTARY, EDUCATIONAL AND CREATIVE ACTIVITIES","publisher":{"@id":"https://bluepointart.uk/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://bluepointart.uk/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://bluepointart.uk/#organization","name":"Blue Point Art ltd","url":"https://bluepointart.uk/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://bluepointart.uk/#/schema/logo/image/","url":"https://bluepointart.uk/wp-content/uploads/2021/10/BluePointGallerySmall.gif","contentUrl":"https://bluepointart.uk/wp-content/uploads/2021/10/BluePointGallerySmall.gif","width":150,"height":114,"caption":"Blue Point Art ltd"},"image":{"@id":"https://bluepointart.uk/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/BPAGallery"]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
@@ -101,13 +90,13 @@ var ccpa_data = {"opt_out_prompt":"Do you really wish to opt out?","opt_out_conf
 </script>
 <script type="text/javascript" src="./js/cookie-law-info-legacy-admin-modules-ccpa-assets-js-cookie-law-info-ccpa.js" id="cookie-law-info-ccpa-js"></script>
 <link rel="https://api.w.org/" href="https://bluepointart.uk/wp-json/">
-<link rel="alternate" type="application/json" href="https://bluepointart.uk/wp-json/wp/v2/posts/62">
+<link rel="alternate" type="application/json" href="https://bluepointart.uk/wp-json/wp/v2/pages/137">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://bluepointart.uk/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://bluepointart.uk/wp-includes/wlwmanifest.xml">
 <meta name="generator" content="WordPress 6.1.1">
-<link rel="shortlink" href="https://bluepointart.uk/?p=62">
-<link rel="alternate" type="application/json+oembed" href="https://bluepointart.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbluepointart.uk%2Fimages-of-identity">
-<link rel="alternate" type="text/xml+oembed" href="https://bluepointart.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbluepointart.uk%2Fimages-of-identity&#038;format=xml">
+<link rel="shortlink" href="https://bluepointart.uk/?p=137">
+<link rel="alternate" type="application/json+oembed" href="https://bluepointart.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbluepointart.uk%2Fpublishing">
+<link rel="alternate" type="text/xml+oembed" href="https://bluepointart.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbluepointart.uk%2Fpublishing&#038;format=xml">
 <link rel="icon" href="./images/BluePointGallerySmall.gif" sizes="32x32">
 <link rel="icon" href="./images/BluePointGallerySmall.gif" sizes="192x192">
 <link rel="apple-touch-icon" href="./images/BluePointGallerySmall.gif">
@@ -130,7 +119,7 @@ color: red;
     </div>
 <!-- full-screen-layout/boxed-layout -->
 <div id="page" class="site site-bg full-screen-layout">
-    <a class="skip-link screen-reader-text" href="./images-of-identity.html#main">Skip to content</a>
+    <a class="skip-link screen-reader-text" href="./publishing.html#main">Skip to content</a>
     <div class="top-bar secondary-bgcolor">
         <div class="container">
             <div class="row">
@@ -184,12 +173,12 @@ color: red;
 
                     <div class="menu"><ul id="primary-menu" class="menu">
 <li id="menu-item-15" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-15"><a href="./index.html">Home</a></li>
-<li id="menu-item-157" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-157">
+<li id="menu-item-157" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children menu-item-157">
 <a href="./category/projects.html">3D exhibitions</a>
 <ul class="sub-menu">
 	<li id="menu-item-225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-225"><a href="./the-dystopia-of-an-imitation.html">The Dystopia of an Imitation by Jaroslaw Solecki</a></li>
 	<li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-158"><a href="./norwid-szkice.html">Norwid – szkice</a></li>
-	<li id="menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-post current-menu-item menu-item-159"><a href="./images-of-identity.html" aria-current="page">Images of Identity</a></li>
+	<li id="menu-item-159" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-159"><a href="./images-of-identity.html">Images of Identity</a></li>
 	<li id="menu-item-160" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-160"><a href="./wake-up-call.html">WAKE-UP CALL</a></li>
 	<li id="menu-item-161" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-161"><a href="./lockdowns-by-joanna-ciechanowska.html">Lockdowns by Joanna Ciechanowska</a></li>
 </ul>
@@ -201,8 +190,8 @@ color: red;
 	<li id="menu-item-182" class="menu-item menu-item-type-post_type menu-item-object-post menu-item-182"><a href="./norwid-szkice.html">Norwid – szkice</a></li>
 </ul>
 </li>
-<li id="menu-item-306" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-306">
-<a href="./publishing.html">Publishing</a>
+<li id="menu-item-306" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-137 current_page_item menu-item-has-children menu-item-306">
+<a href="./publishing.html" aria-current="page">Publishing</a>
 <ul class="sub-menu">
 	<li id="menu-item-307" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-307"><a href="./towards-rediscovery-lockdowns-ciechanowska.html">Towards rediscovery: LOCKDOWNS – Joanna Ciechanowska, Justyna Gorzkowicz</a></li>
 	<li id="menu-item-356" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-356"><a href="./the-dystopia-of-an-imitation-2.html">The Dystopia of an Imitation – Jarosław Solecki, ed. Justyna Gorzkowicz</a></li>
@@ -238,27 +227,21 @@ color: red;
     <!--    Searchbar Ends-->
     <!-- Innerpage Header Begins Here -->
     
-        <div class="wrapper page-inner-title inner-banner primary-bgcolor data-bg" data-background="https://bluepointart.uk/wp-content/uploads/2021/11/Identity_BluePointArt.jpg">
+        <div class="wrapper page-inner-title inner-banner primary-bgcolor data-bg" data-background="">
             <header class="entry-header">
                 <div class="container">
                     <div class="row">
                         <div class="col-md-8">
-                                                            <h1 class="entry-title">Images of Identity</h1>                                <div class="title-seperator secondary-bgcolor"></div>
-
-                                                                    <div class="inner-meta-info">
-                                        <span class="posted-on secondary-font">Posted On <a href="./2020/12/18.html" rel="bookmark"><time class="entry-date published" datetime="2020-12-18T15:52:30+00:00">December 18, 2020</time><time class="updated" datetime="2022-09-27T21:18:22+00:00">September 27, 2022</time></a></span><span class="author secondary-font"> By <a class="url" href="./author/bluepointart.html">BluePointArt</a></span>                                    </div>
+                                                            <h1 class="entry-title">Publishing</h1>                                <div class="title-seperator secondary-bgcolor"></div>
 
                                                                                         <div role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb"><ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList">
-<meta name="numberOfItems" content="3">
+<meta name="numberOfItems" content="2">
 <meta name="itemListOrder" content="Ascending">
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin">
 <a href="./index.html" rel="home"><span itemprop="name">Home</span></a><meta itemprop="position" content="1">
 </li>
-<li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item">
-<a href="./category/projects.html"><span itemprop="name">Projects</span></a><meta itemprop="position" content="2">
-</li>
 <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-end">
-<span itemprop="name">Images of Identity</span><meta itemprop="position" content="3">
+<span itemprop="name">Publishing</span><meta itemprop="position" content="2">
 </li>
 </ul></div>                        </div>
                     </div>
@@ -270,91 +253,41 @@ color: red;
             <!-- Innerpage Header Ends Here -->
     <div id="content" class="site-content">
     <div id="primary" class="content-area">
-        <main id="main" class="site-main " role="main">
+        <main id="main" class="site-main" role="main">
 
             
-                                <article id="post-62" class="post-62 post type-post status-publish format-standard has-post-thumbnail hentry category-3d-exhibition category-projects tag-art-installation tag-identity tag-krzysztof-gil tag-krzysztof-marchlak tag-londyn tag-lukasz-murzyn tag-malgorzata-wielek-mandrela tag-natalia-kopytko tag-our-everyday-identity tag-polishuniversityabroad tag-puno tag-threejs tag-webgl">
-	
-<div class="entry-content">
-    <div class="pb-30 mb-40 twp-article-wrapper clearfix">
-        <div class="entry-content twp-entry-content">
-
-    
-    <div class="post-content">
-
-        <div class="entry-content">
-
+<article id="post-137" class="post-137 page type-page status-publish hentry">
+    <div class="entry-content">
+        <div class="pb-30 twp-article-wrapper clearfix">
             
-<p>The project aims to combine activities in the field of visual arts with interdisciplinary considerations in the spectrum of various fields of humanities and social sciences. The theoretical approach of the scientists and artists meeting has become the question of “identity”. The most important issues which are still “in the process”, concerning all areas of human life: its artistic, cultural, social, religious or scientific activities.</p>
-
-
-
-<p><strong>Curators:</strong>&nbsp;Krzysztof Gil, Justyna Gorzkowicz<br><strong>Artists:&nbsp;</strong><br>➤&nbsp;<strong>NATALIA KOPYTKO&nbsp;</strong>– An image of an identity built from memories – Unreal Places<br>➤&nbsp;<strong>MAŁGORZATA WIELEK-MANDRELA</strong>&nbsp;– Image of Identity Through&nbsp;a Creative Act<br>➤&nbsp;<strong>KRZYSZTOF GIL</strong>&nbsp;– Dual Identity Image<br>➤&nbsp;<strong>KRZYSZTOF MARCHLAK&nbsp;</strong>– A non-heteronormative identity image<br>➤&nbsp;<strong>ŁUKASZ MURZYN</strong>&nbsp;– Image of a Local-Personal Identity – Heritage</p>
-
-
-
-<p>The virtual exhibition ‘Images of Identity’ (18.12.2020-18.02.2021 at 3D Blue Point Art Gallery, PUNO London) and conference ‘<a href="https://clacu.live-website.com/international-conference-our-everyday-identity"><strong>Our Everyday Identity’&nbsp; (11-12.12.2020)</strong>&nbsp;</a>were parts of the interdisciplinary research project: “The Question of ‘Identity’ in an Interdisciplinary Approach″. The project was carried out in cooperation with the Institute of European Culture of the Polish University Abroad of the Ignacy Jan Paderewski in London (PUNO) and the Institute of Painting and Artistic Education of Art Department of the Pedagogical University of the National Commission in Cracow (UP)</p>
-
-
-
-<p><a href="https://clacu.live-website.com/wp-content/uploads/2020/12/Invitation-exhibition-%E2%80%98Images-of-Identity-.pdf"><strong>Download PDF: Invitation_details</strong></a><br><a href="https://clacu.live-website.com/wp-content/uploads/2020/12/Zaproszenie-wystawa-%E2%80%98Images-of-Identity-.pdf"><strong>Do ściagnięcia PDF: Zaproszenie_Szczegoly</strong></a></p>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="549" src="./images/2022-09-IdentityInBluePointArt06-1024x549.jpg" alt="" class="wp-image-363" srcset="./images/2022-09-IdentityInBluePointArt06-1024x549.jpg 1024w, ./images/2022-09-IdentityInBluePointArt06-300x161.jpg 300w, ./images/2022-09-IdentityInBluePointArt06-768x412.jpg 768w, ./images/2022-09-IdentityInBluePointArt06.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
-
-
-
-<figure class="wp-block-image size-large is-resized"><img decoding="async" loading="lazy" src="./images/2022-09-IdentityInBluePointArt05-1024x595.jpg" alt="" class="wp-image-365" width="840" height="488" srcset="./images/2022-09-IdentityInBluePointArt05-1024x595.jpg 1024w, ./images/2022-09-IdentityInBluePointArt05-300x174.jpg 300w, ./images/2022-09-IdentityInBluePointArt05-768x446.jpg 768w, ./images/2022-09-IdentityInBluePointArt05.jpg 1500w" sizes="(max-width: 840px) 100vw, 840px"><figcaption><strong>NATALIA KOPYTKO </strong>– An image of an identity built from memories – Unreal Places</figcaption></figure>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="584" src="./images/2022-09-IdentityInBluePointArt04-1024x584.jpg" alt="" class="wp-image-366" srcset="./images/2022-09-IdentityInBluePointArt04-1024x584.jpg 1024w, ./images/2022-09-IdentityInBluePointArt04-300x171.jpg 300w, ./images/2022-09-IdentityInBluePointArt04-768x438.jpg 768w, ./images/2022-09-IdentityInBluePointArt04.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption>on the right: <strong>MAŁGORZATA WIELEK-MANDRELA</strong> – Image of Identity Through a Creative Act</figcaption></figure>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="608" src="./images/2022-09-IdentityInBluePointArt01-1024x608.jpg" alt="" class="wp-image-367" srcset="./images/2022-09-IdentityInBluePointArt01-1024x608.jpg 1024w, ./images/2022-09-IdentityInBluePointArt01-300x178.jpg 300w, ./images/2022-09-IdentityInBluePointArt01-768x456.jpg 768w, ./images/2022-09-IdentityInBluePointArt01.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption>on the left: <strong>MAŁGORZATA WIELEK-MANDRELA</strong><br>in the background: <strong>KRZYSZTOF MARCHLAK </strong>– A non-heteronormative identity image </figcaption></figure>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="605" src="./images/2022-09-IdentityInBluePointArt02-1024x605.jpg" alt="" class="wp-image-368" srcset="./images/2022-09-IdentityInBluePointArt02-1024x605.jpg 1024w, ./images/2022-09-IdentityInBluePointArt02-300x177.jpg 300w, ./images/2022-09-IdentityInBluePointArt02-768x454.jpg 768w, ./images/2022-09-IdentityInBluePointArt02.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption>on the left: <strong>ŁUKASZ MURZYN</strong> – Image of a Local-Personal Identity – Heritage<br>on the right: <strong>KRZYSZTOF GIL</strong> – Dual Identity Image</figcaption></figure>
-
-
-
-<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="592" src="./images/2022-09-IdentityInBluePointArt03-1024x592.jpg" alt="" class="wp-image-370" srcset="./images/2022-09-IdentityInBluePointArt03-1024x592.jpg 1024w, ./images/2022-09-IdentityInBluePointArt03-300x173.jpg 300w, ./images/2022-09-IdentityInBluePointArt03-768x444.jpg 768w, ./images/2022-09-IdentityInBluePointArt03.jpg 1500w" sizes="(max-width: 1024px) 100vw, 1024px"><figcaption>on the left: <strong>KRZYSZTOF MARCHLAK </strong>– A non-heteronormative identity image<br>on the right: <strong>ŁUKASZ MURZYN</strong> – Image of a Local-Personal Identity – Heritage</figcaption></figure>
+<p><strong>Books</strong></p>
 
 
 
 <p></p>
 
+
+
+<figure class="wp-block-embed is-type-wp-embed is-provider-blue-point-art wp-block-embed-blue-point-art"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="4egnV8EBrH"><a href="./towards-rediscovery-lockdowns-ciechanowska.html">Towards rediscovery: LOCKDOWNS – Joanna Ciechanowska, Justyna Gorzkowicz</a></blockquote>
+<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="&#8220;Towards rediscovery: LOCKDOWNS – Joanna Ciechanowska, Justyna Gorzkowicz&#8221; &#8212; Blue Point Art " src="https://bluepointart.uk/towards-rediscovery-lockdowns-ciechanowska/embed#?secret=KwS30ATWoB#?secret=4egnV8EBrH" data-secret="4egnV8EBrH" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
+
+
+
+<figure class="wp-block-embed is-type-wp-embed is-provider-blue-point-art wp-block-embed-blue-point-art"><div class="wp-block-embed__wrapper">
+<blockquote class="wp-embedded-content" data-secret="Fn0JLrb2LL"><a href="./the-dystopia-of-an-imitation-2.html">The Dystopia of an Imitation &#8211; Jarosław Solecki, ed. Justyna Gorzkowicz</a></blockquote>
+<iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="&#8220;The Dystopia of an Imitation &#8211; Jarosław Solecki, ed. Justyna Gorzkowicz&#8221; &#8212; Blue Point Art " src="https://bluepointart.uk/the-dystopia-of-an-imitation-2/embed#?secret=KEHu0lQNMn#?secret=Fn0JLrb2LL" data-secret="Fn0JLrb2LL" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+</div></figure>
         </div>
-
     </div>
-
-</div>
-
-</div>
-</div>
 <!-- .entry-content -->
-	<div class="single-meta">
-			<footer class="entry-footer alternative-bgcolor">
-		Category: <a href="./category/3d-exhibition.html" rel="category tag">3D exhibition</a>/<a href="./category/projects.html" rel="category tag">Projects</a>		</footer><!-- .entry-footer -->
-			    		<div class="post-tags alternative-bgcolor">
-		<span class="tags-links"> Tagged: <a href="./tag/art-installation.html" rel="tag">art installation</a>/<a href="./tag/identity.html" rel="tag">Identity</a>/<a href="./tag/krzysztof-gil.html" rel="tag">KRZYSZTOF GIL</a>/<a href="./tag/krzysztof-marchlak.html" rel="tag">KRZYSZTOF MARCHLAK</a>/<a href="./tag/londyn.html" rel="tag">londyn</a>/<a href="./tag/lukasz-murzyn.html" rel="tag">ŁUKASZ MURZYN</a>/<a href="./tag/malgorzata-wielek-mandrela.html" rel="tag">MAŁGORZATA WIELEK-MANDRELA</a>/<a href="./tag/natalia-kopytko.html" rel="tag">NATALIA KOPYTKO</a>/<a href="./tag/our-everyday-identity.html" rel="tag">Our Everyday Identity</a>/<a href="./tag/polishuniversityabroad.html" rel="tag">polishuniversityabroad</a>/<a href="./tag/puno.html" rel="tag">PUNO</a>/<a href="./tag/threejs.html" rel="tag">threejs</a>/<a href="./tag/webgl.html" rel="tag">WebGL</a></span>		</div>
-			</div>
-	</article><!-- #post-## -->
-                
-	<nav class="navigation post-navigation" aria-label="Posts">
-		<h2 class="screen-reader-text">Post navigation</h2>
-		<div class="nav-links">
-<div class="nav-previous"><a href="./wake-up-call.html" rel="prev"><span class="screen-reader-text">Previous post:</span> <span class="post-title">WAKE-UP CALL</span></a></div>
-<div class="nav-next"><a href="./norwid-szkice.html" rel="next"><span class="screen-reader-text">Next post:</span> <span class="post-title">Norwid &#8211; szkice</span></a></div>
-</div>
-	</nav>
-            
+    </article><!-- #post-## -->
+
         </main><!-- #main -->
     </div>
 <!-- #primary -->
+
 
 <aside id="secondary" class="widget-area" role="complementary">
     <section id="block-3" class="widget mb-50 widget_block">
@@ -391,7 +324,7 @@ color: red;
 </section></aside><!-- #secondary -->    <div id="sidr-nav">
         <div class="sidr-close-holder mb-10 mt-30">
             <a href="javascript:void(0)" class="skpi-link-offcanvas-start"></a>
-            <a class="sidr-class-sidr-button-close" href="./images-of-identity.html#sidr-nav">Close<i class="ion-ios-close-empty"></i></a>
+            <a class="sidr-class-sidr-button-close" href="./publishing.html#sidr-nav">Close<i class="ion-ios-close-empty"></i></a>
         </div>
         <!-- offcanvas navigation content -->
         <section id="block-10" class="widget pt-20 pb-20 widget_block widget_text">
@@ -452,10 +385,10 @@ color: red;
 
     
 <!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span><div class="cli-bar-container cli-style-v2">
-<div class="cli-bar-message">We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies.<div class="wt-cli-ccpa-element"> <a style="color:#333333" class="wt-cli-ccpa-opt-out" href="./images-of-identity.html">Do not sell my personal information</a>.</div>
+<div class="cli-bar-message">We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept”, you consent to the use of ALL the cookies.<div class="wt-cli-ccpa-element"> <a style="color:#333333" class="wt-cli-ccpa-opt-out" href="./publishing.html">Do not sell my personal information</a>.</div>
 </div>
 <div class="cli-bar-btn_container">
-<a role="button" class="medium cli-plugin-button cli-plugin-main-button cli_settings_button" style="margin:0px 10px 0px 5px" href="./images-of-identity.html">Cookie Settings</a><a role="button" data-cli_action="accept" id="cookie_action_close_header" class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button wt-cli-accept-btn" href="./images-of-identity.html">Accept</a>
+<a role="button" class="medium cli-plugin-button cli-plugin-main-button cli_settings_button" style="margin:0px 10px 0px 5px" href="./publishing.html">Cookie Settings</a><a role="button" data-cli_action="accept" id="cookie_action_close_header" class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button wt-cli-accept-btn" href="./publishing.html">Accept</a>
 </div>
 </div></span></div>
 <div id="cookie-law-info-again" data-nosnippet="true"><span id="cookie_hdr_showagain">Manage consent</span></div>
@@ -474,12 +407,12 @@ color: red;
 				<h4>Privacy Overview</h4>				<div class="cli-privacy-content">
 					<div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.</div>
 				</div>
-				<a class="cli-privacy-readmore" aria-label="Show more" role="button" data-readmore-text="Show more" data-readless-text="Show less" href="./images-of-identity.html"></a>			</div>
+				<a class="cli-privacy-readmore" aria-label="Show more" role="button" data-readmore-text="Show more" data-readless-text="Show less" href="./publishing.html"></a>			</div>
 		</div>
 		<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
 												<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab" href="./images-of-identity.html">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab" href="./publishing.html">
 								Necessary							</a>
 															<div class="wt-cli-necessary-checkbox">
 									<input type="checkbox" class="cli-user-preference-checkbox" id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked>
@@ -535,7 +468,7 @@ color: red;
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="functional" data-toggle="cli-toggle-tab" href="./images-of-identity.html">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="functional" data-toggle="cli-toggle-tab" href="./publishing.html">
 								Functional							</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-functional" class="cli-user-preference-checkbox" data-id="checkbox-functional">
@@ -552,7 +485,7 @@ color: red;
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="performance" data-toggle="cli-toggle-tab" href="./images-of-identity.html">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="performance" data-toggle="cli-toggle-tab" href="./publishing.html">
 								Performance							</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-performance" class="cli-user-preference-checkbox" data-id="checkbox-performance">
@@ -569,7 +502,7 @@ color: red;
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="analytics" data-toggle="cli-toggle-tab" href="./images-of-identity.html">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="analytics" data-toggle="cli-toggle-tab" href="./publishing.html">
 								Analytics							</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-analytics" class="cli-user-preference-checkbox" data-id="checkbox-analytics">
@@ -586,7 +519,7 @@ color: red;
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="advertisement" data-toggle="cli-toggle-tab" href="./images-of-identity.html">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="advertisement" data-toggle="cli-toggle-tab" href="./publishing.html">
 								Advertisement							</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-advertisement" class="cli-user-preference-checkbox" data-id="checkbox-advertisement">
@@ -603,7 +536,7 @@ color: red;
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="others" data-toggle="cli-toggle-tab" href="./images-of-identity.html">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="others" data-toggle="cli-toggle-tab" href="./publishing.html">
 								Others							</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-others" class="cli-user-preference-checkbox" data-id="checkbox-others">
@@ -628,7 +561,7 @@ color: red;
 					<div class="cli-col-12 cli-align-items-stretch cli-px-0">
 						<div class="cli-tab-footer wt-cli-privacy-overview-actions">
 						
-															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn" href="./images-of-identity.html">SAVE &amp; ACCEPT</a>
+															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn" href="./publishing.html">SAVE &amp; ACCEPT</a>
 													</div>
 						
 					</div>
@@ -664,6 +597,7 @@ var wpcf7 = {"api":{"root":"https:\/\/bluepointart.uk\/wp-json\/","namespace":"c
 <script type="text/javascript" src="./js/galway-lite-assets-libraries-theiaStickySidebar-theia-sticky-sidebar.min.js" id="theiaStickySidebar-js"></script>
 <script type="text/javascript" src="./js/galway-lite-assets-twp-js-custom-script.js" id="galway-lite-script-js"></script>
 <script type="text/javascript" src="./js/trending-blog-assets-custom.js" id="minimal-script-js"></script>
+<script type="text/javascript" src="./js/wp-embed.min.js" id="wp-embed-js"></script>
 
 </body>
 </html>
