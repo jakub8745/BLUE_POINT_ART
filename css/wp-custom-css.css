@@ -1,0 +1,15 @@
+html
+  body.home.blog.logged-in.admin-bar.wp-custom-logo.wp-embed-responsive.hfeed.no-sidebar.home-content-not-enabled.customize-support.page-loaded.sidr-open.sidr-nav-open
+  div#page.site.site-bg.full-screen-layout
+  header#masthead.site-header
+  div.top-header.primary-bgcolor
+  div.container
+  nav.main-navigation
+  span.icon-sidr
+  div.offcanvas-navigation {
+  color: red;
+}
+
+offcanvas-navigation {
+  color: red;
+}
