@@ -7,9 +7,9 @@ html
   nav.main-navigation
   span.icon-sidr
   div.offcanvas-navigation {
-  color: red;
+  color: rgba(0, 200, 255, 0.878);
 }
 
 offcanvas-navigation {
-  color: red;
+  color: rgb(0, 162, 255);
 }
