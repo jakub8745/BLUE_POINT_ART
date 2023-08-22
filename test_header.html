@@ -25,34 +25,15 @@
       margin-bottom: 10px;
     }
   </style>
+  <script src="artwork-milkmaids-pitcher.js"></script>
+  <script src="vincenz-dialogues-views.js"></script>
   <script>
-    function changeContent(filePath) {
+    function changeContent(content) {
   // Get the main element
-  var mainElement = document.querySelector('main');
+  const mainElement = document.getElementById("post-article")
+mainElement.innerHTML = content
 
-  // Make an HTTP request using fetch or XMLHttpRequest
-fetch('./artwork-milkmaids-pitcher.html')
-  .then(response => response.text())
-  .then(data => {
-    // Set the innerHTML of the element with the content from the file
-    mainElement.innerHTML = data;
-  })
-  .catch(error => {
-    console.error('Error:', error);
-  });
 
-  /*
-  // Make an AJAX request to fetch the content from the specified file
-  var xhr = new XMLHttpRequest();
-  xhr.open('GET', filePath, true);
-  xhr.onreadystatechange = function() {
-    if (xhr.readyState === 4 && xhr.status === 200) {
-      // Update the HTML content of the main element with the fetched content
-      mainElement.innerHTML = xhr.responseText;
-    }
-  };
-  xhr.send();
-  */
 }
   </script>
 </head>
@@ -65,12 +46,8 @@ fetch('./artwork-milkmaids-pitcher.html')
     <h2>Initial Content</h2>
     <p>This is the initial content.</p>
   </main>
-  <!--<ul class="post">
-    <li>Post 1</li>
-    <li>Post 2</li>
-    <li>Post 3</li>
-  </ul>-->
-  <div class="post-article">
+  
+  <div id="post-article">
     
   <article id="post-1000">
     <div class="twp-text-align">
@@ -88,9 +65,9 @@ fetch('./artwork-milkmaids-pitcher.html')
       </div>
     </article>
     <script>
-        document.getElementById('post-1000').addEventListener('click', function() {changeContent("artwork-milkmaids-pitcher.html")})
+        document.getElementById('post-1000').addEventListener('click', function() {changeContent(artworkMilkmaidsPitcher)})
       </script>
-  <article>
+  <article id="post-1001">
     <div class="twp-text-align">
         <p>
           The exhibition <i>'Vincenz's Dialogues - Views'</i> presents a fascinating series of photographs
@@ -105,6 +82,9 @@ fetch('./artwork-milkmaids-pitcher.html')
         </p>
       </div>
     </article>
+    <script>
+      document.getElementById('post-1001').addEventListener('click', function() {changeContent(vincenzDialoguesViews)})
+    </script>
 </div>
   
 </body>
