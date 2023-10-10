@@ -7,6 +7,9 @@ const widgetRecentPosts =`
     <ul class="wp-block-latest-posts__list wp-block-latest-posts">
       <!--oooooooooooooooo-->
       <li>
+      <a class="wp-block-latest-posts__post-title" href="./building-new-gallery.html">building a new gallery</a>
+    </li>
+      <li>
         <a class="wp-block-latest-posts__post-title" href="./exhibition-vincenz-cipriani.html">The exhibition
           'Vincenz's Dialogues -
           Views'</a>
