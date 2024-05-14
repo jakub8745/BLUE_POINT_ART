@@ -7,7 +7,7 @@ const footerTags = `
     Tagged:
     <a href="./exhibition-vincenz-cipriani.html" rel="tag">3D exhibition</a>/<a
       href="./exhibition-vincenz-cipriani.html" rel="tag">ethnographic exhibition</a>/<a
-      href="./exhibition-vincenz-cipriani.html" rel="tag">Lidio Cipriani</a>/<a
+      href="./exhibition-vincenz-cipriani.html" rel="tag">heritage</a>/<a
       href="./exhibition-vincenz-cipriani.html" rel="tag">Stanisław Vincenz</a>/<a
       href="./exhibition-vincenz-cipriani.html" rel="tag">'Vincenz's Dialogues - Views'</a>/<a
       href="./exhibition-vincenz-cipriani.html" rel="tag">threejs</a>

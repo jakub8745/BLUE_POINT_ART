@@ -1,4 +1,4 @@
-const widgetRecentPosts =`
+const widgetRecentPosts = `
 <section id="block-3" class="widget mb-50 widget_block">
 <div class="is-layout-flow wp-block-group">
   <div class="wp-block-group__inner-container">
@@ -6,6 +6,9 @@ const widgetRecentPosts =`
 
     <ul class="wp-block-latest-posts__list wp-block-latest-posts">
       <!--oooooooooooooooo-->
+      <li>
+      <a class="wp-block-latest-posts__post-title" href="./bednarczyk-heritage.html">Augmented Reality HERITAGE App</a>
+    </li>
       <li>
       <a class="wp-block-latest-posts__post-title" href="./building-new-gallery.html">Building a New Blue Point Art Gallery</a>
     </li>
