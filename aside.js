@@ -7,6 +7,9 @@ const widgetRecentPosts = `
     <ul class="wp-block-latest-posts__list wp-block-latest-posts">
       <!--oooooooooooooooo-->
       <li>
+      <a class="wp-block-latest-posts__post-title" href="./dariah-annual-2024.html">Blue Point Gallery at DARIAH 2024</a>
+    </li>
+      <li>
       <a class="wp-block-latest-posts__post-title" href="./bednarczyk-heritage.html">Augmented Reality HERITAGE App</a>
     </li>
       <li>
