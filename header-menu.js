@@ -1,4 +1,4 @@
-const headerMenu =` <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="
+const headerMenu = ` <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="
         visibility: hidden;
         position: absolute;
         left: -9999px;
@@ -219,6 +219,12 @@ const headerMenu =` <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" wi
               class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-15">
               <a href="./index.html">Home</a>
             </li>
+
+            <li id="menu-item-165"
+            class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-165">
+            <a href="https://archive.bluepointart.uk/" target="_blank">Our ARCHIVE</a>   
+            </li>
+
             <li id="menu-item-157"
               class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-has-children menu-item-157">
               <a href="./category/projects.html">3D exhibitions</a>
